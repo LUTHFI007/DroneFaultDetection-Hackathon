@@ -73,7 +73,3 @@ Drone Health Guard transforms this reactive maintenance model into a **proactive
 ```bash
 # Clone repository
 git clone https://github.com/LUTHFI007/DroneFaultDetection-Hackathon.git
-cd Drone_Health_Guard
-
-# Install dependencies
-pip install -r requirements.txt
